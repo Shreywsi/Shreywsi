@@ -3,7 +3,7 @@
 </h1>
 
 
-<img src="fishies.gif" width="900">
+<img src="images/fishies.gif" width="900">
 
 
 <br><br>
