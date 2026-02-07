@@ -24,6 +24,8 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/398b19b1-9aae-4c1f-8bc0-d172a2c08d68" width="100">
 </div>
 <br><br>
+<img src="images/terminal.gif" width="800">
+
 <!--<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="1400">-->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
