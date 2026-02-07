@@ -1,27 +1,9 @@
-<h1 >
-  Hi, I'm Shreyasi 
+<h1 align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=3000&color=34495E&center=true&vCenter=true&width=750&lines=Hi,+I'm+Shreyasi;mostly+learning+by+doing;Comp+Sci<3" />
 </h1>
+
+
 <img src="fishies.gif" width="900">
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<div >
-
-<a href="https://www.linkedin.com/in/shreyasi-soumya/" target="_blank">
-  <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100">
-</a>
-
-
-<img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="100">
-
-<br>
-
-
-
-</div>
-
-</p>
-
 
 
 <br><br>
@@ -43,6 +25,17 @@
 </div>
 <br><br>
 <!--<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="1400">-->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<div >
+<a href="https://www.linkedin.com/in/shreyasi-soumya/" target="_blank">
+  <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100">
+</a>
+<img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="100">
+<br>
+</div>
+</p>
 <br><br>
 <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="1500">
 <br><br>
+
