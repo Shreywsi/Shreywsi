@@ -1,14 +1,10 @@
-<table>
-<tr>
-<td>
-<img src="https://readme-typing-svg.herokuapp.com?size=35&duration=3000&color=34495E&center=true&vCenter=true&width=750&lines=Hi,+I'm+Shreyasi;mostly+learning+by+doing;Comp+Sci<3" />
-</td>
+<h1 align="left">
+  <span>
+    <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=3000&color=34495E&center=true&vCenter=true&width=750&lines=Hi,+I'm+Shreyasi;mostly+learning+by+doing;Comp+Sci<3" />
+  </span>
+  <img src="images/flower.gif" width="120" align="right">
+</h1>
 
-<td>
-<img src="images/flower.gif" width="120">
-</td>
-</tr>
-</table>
 
 <img src="images/fishies.gif" width="900">
 
