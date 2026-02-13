@@ -1,9 +1,4 @@
-<h1 align="left">
-  <span>
-    <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=3000&color=34495E&center=true&vCenter=true&width=750&lines=Hi,+I'm+Shreyasi;mostly+learning+by+doing;Comp+Sci<3" />
-  </span>
-  <img src="images/flower.gif" width="120" align="right">
-</h1>
+<h1 align="left"> <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=3000&color=34495E&center=true&vCenter=true&width=750&lines=Hi,+I'm+Shreyasi;mostly+learning+by+doing;Comp+Sci<3" /> </h1>
 
 
 <img src="images/fishies.gif" width="900">
